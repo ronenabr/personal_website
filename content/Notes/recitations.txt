@@ -4,11 +4,9 @@ PDF source: exercises/pdf/
 
 
 Intro:
-These notes were written as a student in each class. They where not checked or authorized by 
-the lecturer or any other person, and contains many typos and errors.  **Use with caution**. 
+These notes were written as a student in each class. They were not checked or authorized by the lecturer or any other person, and contain many typos and errors. **Use with caution**.
 
-The notes where typeset using [LyX](projects.html#lyx) and are available for editing as LyX file or as read-only PDF file. 
-
+The notes were typeset using LyX and are available for editing as LyX file or as read-only PDF file.
 End intro:
 
 Semester: Spring 2009

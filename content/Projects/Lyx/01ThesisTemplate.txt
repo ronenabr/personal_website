@@ -1,3 +1,4 @@
 Technion Thesis Template
 
 The Technion has specific, strict design guidlines for submitting a thesis. I used a LaTeX teplate by Eyal Rosenberg, and created a proper LyX layout for it. The tamplate can be found  [in github](http://ronenabr.github.io/technion_thesis_lyx/).
+
