@@ -1,0 +1,12 @@
+Implications of the Babinet Principle for Casimir Interactions
+
+In summer 2010, I took a summer internship with [Robert Jaffe](http://web.mit.edu/physics/people/faculty/jaffe_robert.html) at the [Center for Theoretical Physics](http://ctp.lns.mit.edu/) in [MIT](http://mit.edu/), courtesy of Hibur project. During the summer, we studied the implications of the [Babinet Principle](http://en.wikipedia.org/wiki/Babinet%27s_principle), a theorem best know from it's applications on optics, on the [Casimir effect](http://en.wikipedia.org/wiki/Casimir_effect).
+
+
+The paper we wrote was published in the August issue of Physical Review D, and can be also found in the arXive.
+
+
+
+![Some configurations of complementary plains](http://technion.ac.il/~ronen/project/mit/mit_3.png)
+
+

@@ -1,0 +1,47 @@
+{% extends "base.html" %}
+{% block title %} {% endblock %}
+{% block content %}
+
+      {% for cat in projects_info %}
+        <div class="panel panel-default">
+        <div class="panel-heading" id="{{ cat.title }}">
+        <small class="pull-right">
+        Navigation:
+        {% for cat_name in projects_info %}
+        <a href="#{{ cat_name.title }}">{{ cat_name. title }}</a> | 
+        {% endfor %}
+        <a href="#top">top</a>
+        </small>
+        
+            <h2 class="panel-title" style="font-size: 25px"> {{ cat.title}} </h2>
+            
+        </div>
+        <div class="panel-body">
+            <p style="padding:20"> {{ cat.description }}</p>
+            <div class="row">
+                {% for proj in cat.subprojects %}
+                <div class="col-lg-6">
+                    <div class="panel panel-primary" style="margin:20px" >
+                       <div class="panel-heading">
+                            <h4 class="panel-title"> {{ proj.title }}</h4>
+                        </div>
+                        <div class="panel-body"  style="background-color:#CEE3F6">
+                        <p> 
+                            {{ proj.description }} 
+                        </p>
+                        </div>
+                        
+                    </div>
+                    </div>
+                    {% endfor %}
+                    
+ 
+ 
+            </div>
+         </div>
+        </div>
+        {% endfor %}
+
+
+{% endblock %}
+

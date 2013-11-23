@@ -1,0 +1,10 @@
+Summer at CERN
+
+In summer 2009, I participated the [summer students program](https://hr-recruit.web.cern.ch/hr-recruit/summies/default.asp), in [CERN](http://www.cern.ch/), the European Organization for Nuclear Research.  During the summer, I listened to great talks, and did some research under the supervision of Ludovico Pontecorvo, in [ATLAS'](https://twiki.cern.ch/twiki/bin/view/Atlas/MuonSpectrometer)  [Muon Spectrometer](https://twiki.cern.ch/twiki/bin/view/Atlas/MuonSpectrometer). 
+
+The research objective was to check for the possibility of measuring the background radiation in ATLAS' cavern using the Muon Spectrometers Monitored Drift Chambers (MDT). I studied the electronic noise fluctuations between different Muon chambers, and along different runs of the detectors. I also examined the nature of noise of specific, very noisy drift tubes.
+
+You can find my final [Report](project/cern/ronen_cern_report.pdf) and [Slides](project/cern/ronen_cern_slides.pdf) here. Some general experience from Cern and around can be found [here](project/cern/cern_experience.html). 
+
+![Me with ATLAS](http://technion.ac.il/~ronen/project/cern/me_with_atlas.jpg)
+

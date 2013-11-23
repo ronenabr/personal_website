@@ -1,0 +1,41 @@
+{% extends "base.html" %}
+{% block title %} {{ title }} {% endblock %}
+
+
+{% block content %}
+
+
+
+{% for semester in semesters %}
+        <div class="panel panel-primary" id="{{ semester.name }}">
+        <div class="panel-heading">
+            <h2 class="panel-title" style=""> {{ semester.name }} <small><a href="#top"<span class="glyphicon glyphicon-arrow-up pull-right"></a></small> </h2>
+        </div>
+
+                <div class="list-group">
+                {% for topic in semester.topics %}
+                  <div class="list-group-item" id="{{ topic.name }}">
+                    <h4 class="list-group-item-heading">{{ topic.name }}
+                        <span class="badge" style="margin-left:10px;">{{ topic.lang }}</span>
+                        <div class="pull-right">
+                             {% if topic.pdf  is defined  %}
+                                <a href="{{ topic.pdf }}" class="btn btn-warning" onClick="javascript: pageTracker._trackPageview('{{ topic.pdf }}'); ">Download PDF</a>
+                             {% endif %} 
+                             {% if topic.lyx  is defined  %}
+                                <a href="{{ topic.lyx }}" class="btn btn-warning" onClick="javascript: pageTracker._trackPageview('{{ topic.lyx }}'); ">Download LyX</a>
+                             {% endif %}
+                        </div>
+                    </h4>
+                    <p class="list-group-item-text">                                    
+                        <strong> Lecturer: </strong> {{ topic.prof }}
+                        <strong   style="margin-left:10px"> Hebrew:</strong>
+                        <span dir="rtl" >{{ topic.hname }}</span>                    
+                    </p>
+                </div>  
+                {% endfor %}
+            </div>
+        </div>
+{% endfor %}
+
+{% endblock %}
+

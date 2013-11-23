@@ -1,0 +1,7 @@
+Swimming in Magnetic Field
+
+During Spring 2010, Miri Lavie and I did a project under the supervision of [Prof. Yossi Avron](http://physics.technion.ac.il/~avron/) on *Swimming in Magnetic Field*. In our research we tried to understand swimming - the motion of body in perpendicular Magnetic field - by moving electric charges in a closed path.
+
+
+[![Movie: Swimming in magnetic field](http://technion.ac.il/~ronen/project/swimming/swimming3.png)](http://technion.ac.il/~ronen/project/swimming/swimmer.avi)
+

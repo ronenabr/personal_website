@@ -1,0 +1,9 @@
+LyX for the Quantum Mechanic
+
+I have been using LyX in order to typeset physic lecture notes and papers for several years by now. During this time, I found some hacks to ease the work (mostly regarding Feynman diagrams and Wick contractions). The following example demonstrates and explains those hacks. I hope you  find them useful. For any questions, remarks or suggestions, please mail me.
+
+You can download the [LyX example](latex/lyx_quantum.lyx) (requires some LaTeX packages in order to compile, LyX 1.65), or see how it should be in the [pdf output](latex/lyx_quantum.pdf).
+
+This is rather old, and some of the features, e.g. Feynman diagrams support, are integrated into LyX (2.0 +). See LyX' help for more info.
+
+

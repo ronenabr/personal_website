@@ -1,0 +1,8 @@
+LyX
+
+
+[LyX](http://www.lyx.org/) is an open source document processor, with a LaTeX backend. Other then writing some [minor features](http://wiki.lyx.org/LyX/NewInLyX20#commands) and fixing some bugs, I created some additional LyX resources. 
+
+
+
+

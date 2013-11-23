@@ -1,0 +1,181 @@
+title:Lecture Notes
+LyX source: lectures/lyx/
+PDF source: lectures/pdf/
+
+
+Intro:
+These lecture notes were written as a student in each class. They where not checked or authorized by 
+the lecturer or any other person, and contains many typos and errors.  **Use with caution**. 
+
+The lecture notes where typeset using [LyX](projects.html#lyx) and are available for editing as LyX file or as read-only PDF file. 
+
+End intro:
+
+Semester: Spring 2013
+
+Name: Experimental methods in Solid state physics
+HName: שיטות נסיוניות במצב מוצק
+Description: 
+Proffesor: Amit Keren
+PDF: Experimantal_methods.pdf
+LyX:Experimantal_methods.lyx
+Lang: Hebrew
+
+Semester: Winter 2011
+
+Name: Introduction to many body physics
+HName: מבוא למערכות מרובות חלקיקים 
+Description: 
+Proffesor: Assa Auerbach
+PDF: 
+LyX: 
+Lang: Hebrew
+
+
+Name: Quantum Theory of Solids
+HName: מצב מוצק מתקדם
+Description: 
+Proffesor: Daniel Podolsky
+PDF: QTS.pdf
+LyX: QTS.pdf
+Lang: Hebrew
+
+Semester: Spring 2011
+
+Name: Quantum Field Theory 1
+HName: תורת השדות הקוונטית 1
+Description: 
+Proffesor: Daniel Podolsky
+PDF: qft.pdf
+LyX: qft.lyx
+Lang: Hebrew
+
+
+Name: Introduction to General Relativity
+HName: מבוא ליחסות כללית
+Description: 
+Proffesor: Amos Ori
+PDF: gr.pdf
+LyX: gr.lyx
+Lang: Hebrew
+
+Semester: Spring 2010
+
+Name: Interaction of Photons and Atoms
+HName: אינטראקציה של פוטונים ואטומים
+Description: 
+Proffesor: Eric Akkermans
+PDF: interaction.pdf
+LyX: interaction.lyx
+Lang: Hebrew
+
+Semester: Winter 2009
+
+Name: Quantum Mechanics 3
+HName: מכניקה קוונטית 3
+Description: 
+Proffesor: Oren Bergman
+PDF: QM3.pdf
+LyX: QM3.lyx
+Lang: Hebrew
+
+
+Name: Introduction to functional analysis
+HName: מבוא לאנליזה פונקציונאלית
+Description: 
+Proffesor: Yoav Benyamini
+PDF: FunctionalAnalysis.pdf
+LyX: FunctionalAnalysis.lyx
+Lang: Hebrew
+
+
+Name: Electrodynamics
+HName: אלקטרודינמיקה
+Description: 
+Proffesor: Yossi Avron
+PDF: electrodynamics.pdf
+LyX: electrodynamics.lyx
+Lang: Hebrew
+
+
+Name: Geometry and Symmetry
+HName: גאומטריה וסימטריה
+Description: 
+Proffesor: Amos Nevo
+PDF: geo_symmetry.pdf
+LyX: geo_symmetry.lyx
+Lang: Hebrew
+
+Semster: Spring 2009
+
+Name: Quantum Physics 2
+HName: פיסיקה קוונטית 2
+Description: 
+Proffesor: Yariv Kafri 
+PDF: quantum2.pdf
+LyX: quantum.lyx
+Lang: Hebrew
+
+
+Name: Statistical and Thermal Physics
+HName: פיסיקה סטטיסטית ותרמית
+Description: 
+Proffesor: Ilan Riess
+PDF: termostat.lyx
+LyX: termostat.pdf
+Lang: Hebrew
+
+
+Name: Introduction to Topological and Metric spaces
+HName: מבוא למרחבים מטריים וטופולוגיים
+Description: 
+Proffesor: Michael Polyak
+PDF: topology_Introduction.pdf
+LyX: topology_Introduction.lyx
+Lang: Hebrew
+
+
+Semester: Winter 2008
+
+
+Name: Quantum Physics 1
+HName: פיסיקת הקוונטים 1
+Description: בדוק על ידי המרצה
+Proffesor: Assa Auerbach
+PDF: quantum.pdf
+LyX: quantum.lyx
+Lang: Hebrew
+
+
+Name: Classical Mechanics
+HName: מכניקה אנליטית
+Description: 
+Proffesor: Kinneret Keren
+PDF: Analitic.pdf
+LyX: Analitic.lyx
+Lang: Hebrew
+
+Name: Group Theory
+HName: מבוא לתורת החבורות
+Description: 
+Proffesor: Tamar Ziegler
+PDF: groups.pdf
+LyX: groups.lyx
+Lang: Hebrew
+
+Name: Linear Algebra B
+HName: אלגברה לינארית ב'
+Description: 
+Proffesor: Shlomi Gelaki
+PDF: algebraB.pdf
+LyX: algebraB.pdf 
+Lang: Hebrew
+
+Name: Infinitesimal calculus 3
+HName: חשבון אינפיניטיסימלי 3
+Description: 
+Proffesor: Uri Elias
+PDF: infi3.pdf
+LyX: infi3.lyx
+Lang: Hebrew
+

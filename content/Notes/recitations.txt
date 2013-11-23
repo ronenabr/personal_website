@@ -1,0 +1,42 @@
+title:Recitation Notes
+LyX source: exercises/lyx/
+PDF source: exercises/pdf/
+
+
+Intro:
+These notes were written as a student in each class. They where not checked or authorized by 
+the lecturer or any other person, and contains many typos and errors.  **Use with caution**. 
+
+The notes where typeset using [LyX](projects.html#lyx) and are available for editing as LyX file or as read-only PDF file. 
+
+End intro:
+
+Semester: Spring 2009
+
+Name: Quantum Physics 2
+HName: פיסיקה קוונטית 2
+Description: 
+Proffesor: Omri Bahat
+PDF: quatnum2Tergul.pdf
+LyX:quatnum2Tergul.lyx
+Lang: Hebrew
+
+
+Name: Introduction to Topological and Metric spaces
+HName: מבוא למרחבים מטריים וטופולוגיים
+Description: 
+Proffesor: Sergei Lanzat
+PDF: topologyTergul.pdf
+LyX: topologyTergul.lyx
+Lang: Hebrew
+
+Semester: Spring 2011
+
+Name: Introduction to General Relativity
+HName: מבוא ליחסות כללית
+Description: 
+Proffesor: Dana Levanony
+PDF: gr_tut.pdf
+LyX:
+Lang: Hebrew
+

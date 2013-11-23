@@ -1,0 +1,131 @@
+
+Semester: Spring 2013
+
+Name: Experimental methods in Solide state physics
+HName: שיטות נסיוניות במצב מוצק
+Description: 
+Proffesor: Amit Keren
+PDF: Experimantal_methods.pdf
+LyX:Experimantal_methods.lyx
+Lang: He
+
+Semester: Winter 2011
+
+Name: intro to many body physics
+HName: מבוא למערכות מרובות חלקיקים 
+Description: 
+Proffesor: Assa Aurbach
+PDF: 
+LyX: 
+Lang: He
+
+
+Name: Quantum Theory of Solids
+HName: מצב מוצק מתקדם
+Description: 
+Proffesor: Daniel Podolsky
+PDF: QTS.pdf
+LyX: QTS.pdf
+Lang: He
+
+Semester: Spring 2011
+
+Name: Quantum Field Theory 1
+HName: תורת השדות הקוונטית 1
+Description: 
+Proffesor: Daniel Podolsky
+PDF: qft.pdf
+LyX: qft.lyx
+Lang: He
+
+
+Name: intro to General Relativity
+HName: מבוא ליחסות כללית
+Description: 
+Proffesor: Amos Ori
+PDF: gr.pdf
+LyX: gr.lyx
+Lang: He
+
+Semester: Sprint 2010
+
+Name: Interaction of Photons and Atoms
+HName: אינטראקציה של פוטונים ואטומים
+Description: 
+Proffesor: Eric Akkermans
+PDF: interaction.pdf
+LyX: interaction.lyx
+Lang: He
+
+Semester: Winter 2009
+
+Name: Quantum Mechanics 3
+HName: מכניקה קוונטית 3
+Description: 
+Proffesor: Oren Bergman
+PDF: QM3.pdf
+LyX: QM3.lyx
+Lang: He
+
+
+Name: Intro to functional analysis
+HName: מבוא לאנליזה פונקציונאלית
+Description: 
+Proffesor: Yoav Benyamini
+PDF: FunctionalAnalysis.pdf
+LyX: FunctionalAnalysis.lyx
+Lang: He
+
+
+Name: Electrodynamics
+HName: אלקטרודינמיקה
+Description: 
+Proffesor: Yossi Avron
+PDF: electrodynamics.pdf
+LyX: electrodynamics.lyx
+Lang: He
+
+
+Name: Geometry and Symmetry
+HName: גאומטריה וסימטריה
+Description: 
+Proffesor: Amos Nevo
+PDF: geo_symmetry.pdf
+LyX: geo_symmetry.lyx
+Lang: He
+
+Semster: Spring 2009
+
+Name: Quantum Mechanics 2
+HName: פיסיקה קוונטית 2
+Description: 
+Proffesor: Yariv Kafri 
+PDF: quantum2.pdf
+LyX: quantum.lyx
+Lang: He
+
+
+Name: Statistical and Thermal Physics
+HName: פיסיקה סטטיסטית ותרמית
+Description: 
+Proffesor: Ilan Riess
+PDF: termostat.lyx
+LyX: termostat.pdf
+Lang: He
+
+
+Name: Intro to Topologycal and Metric spaces
+HName: מבוא למרחבים מטריים וטופולוגיים
+Description: 
+Proffesor: Michael Polyak
+PDF: topology_intro.pdf
+LyX: topology_intro.lyx
+Lang: He
+
+
+
+
+
+
+
+

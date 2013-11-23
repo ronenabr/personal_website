@@ -1,0 +1,11 @@
+IPython Bidi
+
+IPython notebook is a web-based interactive python environment, and it's great for exploration and
+presentation of data, alongside to text and rich media content. 
+
+Using the [bidiweb](https://github.com/hasenj/bidiweb) JS library, I created an [IPython extension](https://github.com/ronenabr/ipython_bidi_markdown) to aligne Hebrew (and Arabic) text to the right in IPython's markdown cells. 
+
+I used this extension (along with [Live-Reavel](https://github.com/ipython-contrib/live_reveal) extension), to create interactive Hebrew slides for my Python workshop.
+
+
+

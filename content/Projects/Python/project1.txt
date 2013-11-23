@@ -1,0 +1,6 @@
+Python Workshop for Phsicists
+
+I taught a six-hour python workshop for Physics students at Technion. We coverd basic syntax and usage, 
+and some usage of Numpy, Scipy, Matplotlib and Pandas. 
+
+Slides and notes from the workshop can be found [here](http://ronenabr.github.io/python_for_physicsits/) (Hebrew). 

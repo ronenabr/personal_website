@@ -1,0 +1,13 @@
+
+Semester: Spring 2013
+
+Name: Experimental methods in Solide state physics
+HName: שיטות נסיוניות במצב מוצק
+Description: 
+Proffesor: Amit Keren
+PDF: Experimantal_methods.pdf
+LyX:Experimantal_methods.lyx
+Lang: Hebrew
+
+
+
