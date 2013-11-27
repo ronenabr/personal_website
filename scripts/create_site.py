@@ -24,8 +24,7 @@ loader = FileSystemLoader(TEMPLATE_DIR)
 env = Environment(loader=loader)
 
 
-def build_project_page():
-    global env
+def parse_project_tree():
 
     #Process projects
     projects_info = []
@@ -59,6 +58,12 @@ def build_project_page():
     intro = md(intro)
     f.close()
 
+    return (projects_info, intro)
+
+
+
+def build_project_page(projects_info, intro):
+    global env
 
     proj_template = env.get_template('projects.html')
     out_file = os.path.join(OUT_DIR, "projects.html")
@@ -173,7 +178,8 @@ def create_default_page(input_filename, output_filename, more_data):
 
 create_note_page("lectures.txt", "lecture_notes.html")
 create_note_page("recitations.txt", "recitation_notes.html")
-build_project_page()
+project_info, projects_intro  = parse_project_tree()
+build_project_page(project_info, projects_intro )
 create_default_page(os.path.join(CONTENT_DIR, "home.txt"), "index.html", {"home_active" : "active"})
 create_default_page(os.path.join(CONTENT_DIR, "publications.txt"), "publications.html", {"publications_active" : "active"})
 
