@@ -11,7 +11,17 @@ The lecture notes were typeset using LyX and are available for editing as LyX fi
 
 End intro:
 
-Semester: Spring 2013
+Semester: Winter  2012
+
+Name: Group theory in physics 
+HName: שיטות בתורת החבורות בפיזיקה
+Description: 
+Proffesor: Daniel Podolsky
+PDF: group_theory.pdf
+LyX:group_theory.lyx
+Lang: Hebrew
+
+Semester: Spring 2012
 
 Name: Experimental methods in Solid state physics
 HName: שיטות נסיוניות במצב מוצק
@@ -106,7 +116,8 @@ PDF: geo_symmetry.pdf
 LyX: geo_symmetry.lyx
 Lang: Hebrew
 
-Semster: Spring 2009
+Semester: Spring 2009
+
 
 Name: Quantum Physics 2
 HName: פיסיקה קוונטית 2
